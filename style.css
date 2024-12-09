@@ -1,0 +1,12 @@
+/* .dropdown-item{
+    font-weight: 400 !important;
+}  */
+
+.imgDiv{
+    height: 64vh !important;
+    object-fit: cover !important;
+}
+#growthhh{
+    height: 350px !important;
+    width: 350px !important;
+}
